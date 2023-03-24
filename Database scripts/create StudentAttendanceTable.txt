@@ -1,0 +1,21 @@
+USE [Test_V2]
+GO
+
+/****** Object:  Table [dbo].[StudentAttendanceStatus]    Script Date: 21-03-2023 22:20:21 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[StudentAttendanceStatus](
+	[StatusId] [int] IDENTITY(1,1) NOT NULL,
+	[Name] [nchar](50) NULL,
+ CONSTRAINT [PK_StudentAttendanceStatus] PRIMARY KEY CLUSTERED 
+(
+	[StatusId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+
+

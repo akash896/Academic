@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AcademicERP 2.0",
+    "\\AcademicERP 2.0\\PivotalERP",
+    "\\AcademicERP 2.0\\PivotalERP\\Areas",
+    "\\AcademicERP 2.0\\PivotalERP\\Areas\\FrontDesk",
+    "\\AcademicERP 2.0\\PivotalERP\\Areas\\FrontDesk\\Views",
+    "\\AcademicERP 2.0\\PivotalERP\\Areas\\FrontDesk\\Views\\Transaction",
+    "\\AcademicERP 2.0\\PivotalERP\\Areas\\Library",
+    "\\AcademicERP 2.0\\PivotalERP\\Areas\\Library\\Views",
+    "\\AcademicERP 2.0\\PivotalERP\\Areas\\Library\\Views\\Master",
+    "\\AcademicERP 2.0\\PivotalERP\\jslib"
+  ],
+  "SelectedNode": "\\AcademicERP 2.0\\PivotalERP\\Areas\\Library\\Views\\Master\\BookEntry.cshtml",
+  "PreviewInSolutionExplorer": false
+}
